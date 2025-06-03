@@ -26,8 +26,8 @@ I’m an aspiring QA Tester with a deep love for Rockstar titles like GTA V and 
 
 ## 🐛 Sample Bug Reports
 
-1. [GTA V – Lester’s Door Clipping Bug](bug-reports/gta-door-bug.pdf)
-2. [RDR2 – Horse Stuck on Hill](bug-reports/rdr2-horse-bug.pdf)
+1. [GTA V – Rain Effect Rendering Glitch]()
+2. [RDR2 – Horse Stuck on Hill]()
 
 _Screenshots available in [`/screenshots`](screenshots/) folder._
 
