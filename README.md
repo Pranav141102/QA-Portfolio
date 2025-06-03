@@ -29,7 +29,7 @@ I’m an aspiring QA Tester with a deep love for Rockstar titles like GTA V and 
 1. [GTA V – Rain Effect Rendering Glitch](https://github.com/Pranav141102/QA-Portfolio/blob/main/Bug%20Report%20-%20GTA%205.pdf)
 2. [RDR2 – Horse Stuck on Hill]()
 
-_Screenshots available in [`/screenshots`](screenshots/) folder._
+_Screenshots available in [`/screenshots`]() folder._
 
 ---
 
